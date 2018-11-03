@@ -1,0 +1,39 @@
+.nav{
+    height: 550px;
+    width: 200px;
+    background-color: gold;
+    float: left;
+}
+.head{
+    height: 100px;
+    width: 1130px;
+    background-color:gold;
+    margin-left: 210px;
+}
+    
+.article{
+    height: 350px;
+    width: 923px;
+    background-color:gold;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    
+}
+.ads{
+    height: 350px;
+    width: 190px;
+    background-color: gold;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+}
+.footer{
+    height: 80px;
+    width: 1123px;
+    background-color: gold;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}

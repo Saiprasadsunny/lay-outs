@@ -1,0 +1,102 @@
+.header{
+    height: 80px;
+    width: 95%;
+    background-color: deepskyblue;
+
+}
+.left{
+    float: left;
+    width: 15%;
+}
+.nav{
+    height: 430px;
+    width: 200px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    
+}
+.right{
+    float: left;
+     width: 85%;
+    
+}
+.box1{
+    height: 100px;
+    width: 370px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+   
+}
+.box2{
+    height: 100px;
+    width: 690px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.clear{
+    clear:both;
+}
+.box3{
+    height: 100px;
+    width: 710px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+   
+}
+.box4{
+    height: 100px;
+    width: 350px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.clear{
+    clear:both;
+}
+
+.box5{
+    height: 100px;
+    width: 350px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.box6{
+    height: 100px;
+    width: 350px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+.box7{
+    height: 100px;
+    width: 350px;
+    background-color:deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.clear{
+    clear:both;
+}
+.box8{
+    height: 100px;
+    width: 1070px;
+    background-color: deepskyblue;
+    margin-top: 10px;
+    margin-left: 10px;
+}

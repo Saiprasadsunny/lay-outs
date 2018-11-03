@@ -1,0 +1,42 @@
+div{
+    display: block;
+    float: left;
+}
+    
+.header{
+    height: 80px;
+    width: 90%;
+    background-color: aqua;
+    margin-left: 50px;
+}
+.ads{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 47px;
+    
+    
+}
+.nav{
+    height: 420px;
+    width: 200px;
+    background-color: aqua;
+    margin-top: 10px;
+    clear: both;
+    margin-left: 43px;
+}
+.article{
+    height: 470px;
+    width: 990px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.footer{
+    height: 50px;
+    width: 990px;
+    background-color:aqua;
+    margin-top: 10px;
+    margin-left: 12px;
+}
